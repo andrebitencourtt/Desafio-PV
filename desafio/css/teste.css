@@ -1,0 +1,39 @@
+#botaoenviar{
+  margin-top: 3px;
+  margin-left: 15px;
+}
+#inputnome{
+  margin-left: 16px;
+  margin-top: 45px;
+  width: 425px;
+}
+#inputsobrenome{
+  margin-top: 103px;
+  margin-left: -63px;
+  width: 425px;
+}
+#inputemail{
+  margin-top: 147px;
+  margin-left: -1002px;
+  width: 425px;
+}
+#tituloInformacoes{
+  margin-top: 10px;
+}
+#Clientes{
+  margin-left: 15px;
+  margin-top: 10px;
+}
+#dnasc_cadastro{
+  margin-left: 15px;
+}
+#inputdatanasc{
+  margin-left: 15px;
+  width: 425px;
+}
+#inputsenha{
+  width: 425px;
+}
+#inputcsenha{
+  width: 425px;
+}
